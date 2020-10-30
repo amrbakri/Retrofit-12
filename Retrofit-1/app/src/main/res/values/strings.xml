@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Retrofit-1</string>
+
+    <string name="BASE_URL">https://api.github.com/</string>
+    <string name="FULL_URL">https://api.github.com/search/repositories?q=:query</string>
+
+</resources>
